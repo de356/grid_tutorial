@@ -1,5 +1,5 @@
 # Tutorial Notes
-If you'd like to keep any notes you'd like to take on this tutorial together with the scripts and outputs, feel free to add to this premade Makrdown document which has been organised by each section of the tutorial! 
+Feel free to use this markdow document for taking notes on each of the different section of this tutorial. 
 
 ### Introduction
 - System and user prerequisites
