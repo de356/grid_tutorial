@@ -2,9 +2,7 @@
 A link to the tutorial webpage that this repo is maintained for can be found below: 
 ## https://eddatascienceees.github.io/tutorial-de356/
 
-This repository contains *only* those files created and used for the generation of the webpage. For additional resources and content related to this tutorial, please refer to the public `grid_tutorial` repository created for this tutorial's completion. The link to the public repository can be found here: https://github.com/de356/grid_tutorial
-
-Please refer to the `etiquette.md` file before making any changes to the folders and files included in this repo. The only person that should be making edits to the master repo branch is David English (@de356). Any suggested edits should be made in a separate branch. If you're unable to make changes or edit, or have any questions, David English can be contacted at s1752527@ed.ac.uk. 
+This repository contains the files necessary for completing the "Going on the Grid" tutorial linked above. If you're having issues downloading or accessing this repo, or have any questions, the creator, David English, can be contacted at s1752527@ed.ac.uk. 
 
 ## Tutorial Table of Contents: 
 ### Introduction
@@ -33,11 +31,16 @@ Please refer to the `etiquette.md` file before making any changes to the folders
 - Summary of everything that has been learned throughout the duration of this tutorial.
 
 ## Repo Directory
-### [extra_resources](https://github.com/EdDataScienceEES/tutorial-de356/tree/master/extra_resources):  
-Contains documentation for all of the packages used in R, where available. 
-### [img](https://github.com/EdDataScienceEES/tutorial-de356/tree/master/img):  
-Contains all of the data visuals and images created and used on the tutorial webpage. 
-### [script](https://github.com/EdDataScienceEES/challenge-3-de356/tree/master/script):  
-Contains the base R script used to generate all of the code snippets that appear on the webpage, as well as all of the images found within the `img` folder. 
-### [index.md](https://github.com/EdDataScienceEES/tutorial-de356/blob/master/index.md):
-This is the markdown document, along with `_config.yml` responsible for generating the [tutorial webpage](https://eddatascienceees.github.io/tutorial-de356/).
+### [extra_resources](https://github.com/de356/grid_tutorial/tree/main/extra_resources):  
+Contains documentation for all of the packages used in R, where available.  
+### [img](https://github.com/de356/grid_tutorial/tree/main/img):  
+Contains all of the data visuals and images created and used on the tutorial webpage.  
+### [data](https://github.com/de356/grid_tutorial/tree/main/data):  
+Contains the data necessary for completing the 'Going on the Grid' Tutorial. Note that RStudio users will not need to use this file, as the iris dataset comes built into RStudio. The iris.csv file is identical to the dataframe available in RStudio.  
+### [challenge](https://github.com/de356/grid_tutorial/tree/main/challenge):  
+Contains the starter code and image necessary for completing the challenge in the "Putting It All Together" section at the end of the Going on the Grid tutorial.
+
+## Image Credits
+The two images externally sourced for this tutorial come from the following links:  
+`iris_flower.jpg` - [ https://www.publicdomainpictures.net/en/view-image.php?image=282615&picture=purple-iris-flower]( https://www.publicdomainpictures.net/en/view-image.php?image=282615&picture=purple-iris-flower)  
+`pubic_iris.jpg` - [https://www.publicdomainpictures.net/en/view-image.php?image=178046&picture=iris-flower](https://www.publicdomainpictures.net/en/view-image.php?image=178046&picture=iris-flower)  
